@@ -1,0 +1,7 @@
+total 20
+4 drwxrwxr-x 3 pat pat 4096 Nov  7 12:42 .
+4 drwxrwxr-x 6 pat pat 4096 Nov  7 12:38 ..
+0 -rw-rw-r-- 1 pat pat    0 Nov  7 12:42 big1.bin
+4 drwxrwxr-x 8 pat pat 4096 Nov  7 12:38 .git
+4 -rw-rw-r-- 1 pat pat   66 Nov  7 12:41 .lfsconfig
+4 -rw-rw-r-- 1 pat pat    8 Nov  7 12:42 main.txt
